@@ -1,4 +1,4 @@
-# EnzaTrack: lessons-learned platform for programmes
+# EnzaTrack: lessons-learned platform for public health programmes
 
 **EnzaTrack helps organisations capture what their programmes learn, review it, and put it in front of the people who need it next, across countries, languages and partner organisations.**
 
@@ -18,7 +18,7 @@ This is a case study. The product's source code is private; this page explains w
 
 ## The problem
 
-Programmes learn a great deal, but most of it stays in mission reports, meeting minutes and people's heads. When a new team faces the same problem in another country two years later, the lesson is hard to find, not trusted, or written in another language. Lessons that are found are rarely compared, and good practices are seldom distilled from them.
+Public Health Programmes learn a great deal, but most of it stays in mission reports, meeting minutes and people's heads. When a new team faces the same problem in another country two years later, the lesson is hard to find, not trusted, or written in another language. Lessons that are found are rarely compared, and good practices are seldom distilled from them.
 
 EnzaTrack turns that knowledge into structured, reviewed, searchable lessons, and keeps track of who may see what.
 
